@@ -1,4 +1,4 @@
-# Guacamole recepe
+# Guacamole recipe
 
 ##  how to use
 
